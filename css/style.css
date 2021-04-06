@@ -284,7 +284,7 @@ label { }
    ----------------------*/
 
 .logo { }
-.header { color: whitesmoke;background-color: darkslategray; z-index: 9999; position: relative; padding-top: 20px; padding-bottom: 20px; }
+.header { background-color: darkslategray; z-index: 9999; position: relative; padding-top: 20px; padding-bottom: 20px; }
 .top-text { text-align: right; }
 .top-text .text-block { padding-left: 20px; color: #fff; line-height: 18px; }
 .call-block { }
@@ -303,7 +303,7 @@ label { }
 .hero-title { font-size: 46px; color: #fff; line-height: 58px; font-weight: 600; margin-bottom: 30px; letter-spacing: -1px; }
 .hero-text { font-size: 18px; color: #fff; margin-bottom: 30px; }
 .navigation { float: right; }
-.is-sticky .header {border-bottom: 1px solid #eae7e2;}
+.is-sticky .header {border-bottom: 1px solid gray;}
 #navigation, #navigation ul, #navigation ul li, #navigation ul li a, #navigation #menu-button { margin: 0; padding: 0; border: 0; list-style: none; line-height: 1; display: block; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 #navigation:after, #navigation > ul:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
 #navigation #menu-button { display: none; }
