@@ -284,7 +284,7 @@ label { }
    ----------------------*/
 
 .logo { }
-.header { background-color: #fff; z-index: 9999; position: relative; padding-top: 20px; padding-bottom: 20px; }
+.header { color: whitesmoke;background-color: darkslategray; z-index: 9999; position: relative; padding-top: 20px; padding-bottom: 20px; }
 .top-text { text-align: right; }
 .top-text .text-block { padding-left: 20px; color: #fff; line-height: 18px; }
 .call-block { }
@@ -313,8 +313,8 @@ label { }
 #navigation.align-center > ul > li { display: inline-block; float: none; }
 #navigation.align-center ul ul { text-align: left; }
 #navigation.align-right > ul > li { float: right; }
-#navigation > ul > li > a { padding: 20px; font-size: 13px; color: #18150d; text-decoration: none; font-weight: 500; text-transform: uppercase; }
-#navigation > ul > li:hover > a { color: #ffffff; background-color: #aa9144; }
+#navigation > ul > li > a { padding: 20px; font-size: 13px; color: whitesmoke; text-decoration: none; font-weight: 500; text-transform: uppercase; }
+#navigation > ul > li:hover > a { color: #ffffff; background-color: crimson; }
 #navigation > ul > li.has-sub > a { padding-right: 32px; }
 
 /*#navigation > ul > li.has-sub > a:after {
